@@ -1,3 +1,24 @@
+@value moreHex1 #01CBC6;
+@value moreHex2 #EA7773;
+@value moreHex3 #BB2CD9;
+@value moreHex4 #8B78E6;
+@value moreHex5 #2B2B52;
+@value moreHex6 #EAF0F1;
+@value moreHex7 #F5BCBA;
+@value moreHex8 #ffeaa7;
+@value moreHex9 #fd79a8;
+@value moreHex10 #e84393;
+@value moreHex11 #353b48;
+@value moreHex12 #4cd137;
+@value moreHex13 #FD9644;
+@value moreHex14 #E74292;
+@value moreHex15 #20bf6b;
+@value moreHex16 #F3B431;
+@value moreHex17 #45aaf2;
+@value moreHex18 #a55eea;
+@value moreHex19 #2d3436;
+@value moreHex20 #6c5ce7;
+@value moreHex21 #0984e3;
 div {
   margin: 15px;
   padding: 15px;
@@ -23,7 +44,7 @@ div:hover {
 }
 
 #more1 {
-  background: #01cbc6;
+  background: moreHex1;
   position: relative;
 }
 .mybuttonoverlap {
@@ -41,97 +62,97 @@ div:hover {
 }
 
 #more2 {
-  background: #ea7773;
+  background: moreHex2;
   position: relative;
 }
 
 #more3 {
-  background: #bb2cd9;
+  background: moreHex3;
   position: relative;
 }
 
 #more4 {
-  background: #8b78e6;
+  background: moreHex4;
   position: relative;
 }
 
 #more5 {
-  background: #2b2b52;
+  background: moreHex5;
   position: relative;
 }
 
 #more6 {
-  background: #eaf0f1;
+  background: moreHex6;
   position: relative;
 }
 
 #more7 {
-  background: #f5bcba;
+  background: moreHex7;
   position: relative;
 }
 
 #more8 {
-  background: #e74292;
+  background: moreHex8;
   position: relative;
 }
 
 #more9 {
-  background: #fd9644;
+  background: moreHex9;
   position: relative;
 }
 
 #more10 {
-  background: #4cd137;
+  background: moreHex10;
   position: relative;
 }
 
 #more11 {
-  background: #353b48;
+  background: moreHex11;
   position: relative;
 }
 
 #more12 {
-  background: #e84393;
+  background: moreHex12;
   position: relative;
 }
 
 #more13 {
-  background: #fd79a8;
+  background: moreHex13;
   position: relative;
 }
 
 #more14 {
-  background: #ffeaa7;
+  background: moreHex14;
   position: relative;
 }
 
 #more15 {
-  background: #0984e3;
+  background: moreHex15;
   position: relative;
 }
 
 #more16 {
-  background: #6c5ce7;
+  background: moreHex16;
   position: relative;
 }
 #more17 {
-  background: #2d3436;
+  background: moreHex17;
   position: relative;
 }
 #more18 {
-  background: #a55eea;
+  background: moreHex18;
   position: relative;
 }
 #more19 {
-  background: #45aaf2;
+  background: moreHex19;
   position: relative;
 }
 #more20 {
-  background: #f3b431;
+  background: moreHex20;
   position: relative;
 }
 #more21 {
-  background: #20bf6b;
+  background: moreHex21;
   position: relative;
 }
 

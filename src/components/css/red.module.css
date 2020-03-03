@@ -1,3 +1,24 @@
+@value redHex1 #EB4D4B;
+@value redHex2 #FF1744;
+@value redHex3 #E53935;
+@value redHex4 #D50000;
+@value redHex5 #D32F2F;
+@value redHex6 #F44336;
+@value redHex7 #FF362E;
+@value redHex8 #E84342;
+@value redHex9 #FF3031;
+@value redHex10 #EA425C;
+@value redHex11 #E71C23;
+@value redHex12 #FF3E4D;
+@value redHex13 #EC4849;
+@value redHex14 #BA2F16;
+@value redHex15 #FF4848;
+@value redHex16 #E83350;
+@value redHex17 #AE1438;
+@value redHex18 #E8290B;
+@value redHex19 #E44236;
+@value redHex20 #B83227;
+@value redHex21 #D63031;
 div {
   margin: 15px;
   padding: 15px;
@@ -23,7 +44,7 @@ div:hover {
 }
 
 #red1 {
-  background: #eb4d4b;
+  background: redHex1;
   position: relative;
 }
 .mybuttonoverlap {
@@ -41,97 +62,97 @@ div:hover {
 }
 
 #red2 {
-  background: #ff1744;
+  background: redHex2;
   position: relative;
 }
 
 #red3 {
-  background: #e53935;
+  background: redHex3;
   position: relative;
 }
 
 #red4 {
-  background: #d50000;
+  background: redHex4;
   position: relative;
 }
 
 #red5 {
-  background: #d32f2f;
+  background: redHex5;
   position: relative;
 }
 
 #red6 {
-  background: #f44336;
+  background: redHex6;
   position: relative;
 }
 
 #red7 {
-  background: #ff362e;
+  background: redHex7;
   position: relative;
 }
 
 #red8 {
-  background: #ff4848;
+  background: redHex8;
   position: relative;
 }
 
 #red9 {
-  background: #e83350;
+  background: redHex9;
   position: relative;
 }
 
 #red10 {
-  background: #ae1438;
+  background: redHex10;
   position: relative;
 }
 
 #red11 {
-  background: #e8290b;
+  background: redHex11;
   position: relative;
 }
 
 #red12 {
-  background: #e44236;
+  background: redHex12;
   position: relative;
 }
 
 #red13 {
-  background: #b83227;
+  background: redHex13;
   position: relative;
 }
 
 #red14 {
-  background: #d63031;
+  background: redHex14;
   position: relative;
 }
 
 #red15 {
-  background: #e84342;
+  background: redHex15;
   position: relative;
 }
 
 #red16 {
-  background: #ff3031;
+  background: redHex16;
   position: relative;
 }
 #red17 {
-  background: #ea425c;
+  background: redHex17;
   position: relative;
 }
 #red18 {
-  background: #e71c23;
+  background: redHex18;
   position: relative;
 }
 #red19 {
-  background: #ff3e4d;
+  background: redHex19;
   position: relative;
 }
 #red20 {
-  background: #ec4849;
+  background: redHex20;
   position: relative;
 }
 #red21 {
-  background: #ba2f16;
+  background: redHex21;
   position: relative;
 }
 

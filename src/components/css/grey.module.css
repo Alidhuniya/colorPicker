@@ -1,3 +1,24 @@
+@value greyHex1 #212121;
+@value greyHex2 #47535E;
+@value greyHex3 #777E8B;
+@value greyHex4 #DAE0E2;
+@value greyHex5 #586776;
+@value greyHex6 #758AA2;
+@value greyHex7 #4C4B4B;
+@value greyHex8 #616C6F;
+@value greyHex9 #333943;
+@value greyHex10 #8395A7;
+@value greyHex11 #99AAAB;
+@value greyHex12 #333940;
+@value greyHex13 #A4B0BD;
+@value greyHex14 #2C3335;
+@value greyHex15 #333949;
+@value greyHex16 #535C68;
+@value greyHex17 #333945;
+@value greyHex18 #333946;
+@value greyHex19 #535C68;
+@value greyHex20 #2F363F;
+@value greyHex21 #333666;
 div {
   margin: 15px;
   padding: 15px;
@@ -23,7 +44,7 @@ div:hover {
 }
 
 #grey1 {
-  background: #212121;
+  background: greyHex1;
   position: relative;
 }
 .mybuttonoverlap {
@@ -41,97 +62,97 @@ div:hover {
 }
 
 #grey2 {
-  background: #dae0e2;
+  background: greyHex2;
   position: relative;
 }
 
 #grey3 {
-  background: #4c4b4b;
+  background: greyHex3;
   position: relative;
 }
 
 #grey4 {
-  background: #8395a7;
+  background: greyHex4;
   position: relative;
 }
 
 #grey5 {
-  background: #a4b0bd;
+  background: greyHex5;
   position: relative;
 }
 
 #grey6 {
-  background: #535c68;
+  background: greyHex6;
   position: relative;
 }
 
 #grey7 {
-  background: #535c68;
+  background: greyHex7;
   position: relative;
 }
 
 #grey8 {
-  background: #47535e;
+  background: greyHex8;
   position: relative;
 }
 
 #grey9 {
-  background: #586776;
+  background: greyHex9;
   position: relative;
 }
 
 #grey10 {
-  background: #616c6f;
+  background: greyHex10;
   position: relative;
 }
 
 #grey11 {
-  background: #99aaab;
+  background: greyHex11;
   position: relative;
 }
 
 #grey12 {
-  background: #2c3335;
+  background: greyHex12;
   position: relative;
 }
 
 #grey13 {
-  background: #333945;
+  background: greyHex13;
   position: relative;
 }
 
 #grey14 {
-  background: #2f363f;
+  background: greyHex14;
   position: relative;
 }
 
 #grey15 {
-  background: #777e8b;
+  background: greyHex15;
   position: relative;
 }
 
 #grey16 {
-  background: #758aa2;
+  background: greyHex16;
   position: relative;
 }
 #grey17 {
-  background: #333943;
+  background: greyHex17;
   position: relative;
 }
 #grey18 {
-  background: #333940;
+  background: greyHex18;
   position: relative;
 }
 #grey19 {
-  background: #333949;
+  background: greyHex19;
   position: relative;
 }
 #grey20 {
-  background: #333946;
+  background: greyHex20;
   position: relative;
 }
 #grey21 {
-  background: #333666;
+  background: greyHex21;
   position: relative;
 }
 
