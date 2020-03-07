@@ -1,11 +1,9 @@
 
-# Color_Picker_Project_in_React_16.8.6
+# Color_Picker_Project_in_React_16.13.0
 ### Click on Circle to copy the color for your Web and Mobile App
 ### Ask Buddie Open Source Front_End Project
 
 ![alt text](https://i.ibb.co/vx4nZ4k/Screenshot-170.png)
-
-![alt text](https://i.ibb.co/4Kdr7cv/Screenshot-171.png)
 
 **Pure CSS Modules to get rid of global css Naming**
 
@@ -26,5 +24,19 @@
 **Contribute this Project by doing refactor of Source code or by changing UI.**
 
 
-[ Connect with me]
-(https://www.facebook.com/dhuniya.1920)
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://anuraghazra.github.io/"><img src="https://avatars1.githubusercontent.com/u/35374649?s=460&v=4" width="200px;" alt=""/><br /><sub><b>Anurag Hazra</b></sub></a><br /></a> <a href="https://github.com/Alidhuniya/colorPicker/pull/1" title="Reviewed Pull Requests">👀</a> </td>
+    <td align="center"><a href="https://alidhuniya.github.io/HTMLCSS-Projects/HTMLCSS-Portfolio/htmlcss-dev/"><img src="https://avatars3.githubusercontent.com/u/39728698?s=460&v=4" width="200px;" alt=""/><br /><sub><b>Ali Dhuniya</b></sub></a><br /><a href="https://github.com/Alidhuniya/colorPicker" title="Documentation"><b style="color:white";>Author</b></a></td>
+  </tr>
+</table>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
