@@ -3,7 +3,7 @@
 ### Click on Circle to copy the color for your Web and Mobile App
 ### Ask Buddie Open Source Front_End Project
 
-![alt text](https://i.ibb.co/vx4nZ4k/Screenshot-170.png)
+![alt text](src/readmeImg/readmeProject.png)
 
 **Pure CSS Modules to get rid of global css Naming**
 
