@@ -7,15 +7,17 @@ import { Link } from "react-scroll";
 const Nav = () => {
   return (
     <Fragment>
-      <nav>
-        <div className={style.logo}>
-          <a href="https://www.facebook.com/groups/askbuddie/">
-            <img src={logo} alt="Ask Buddie Logo" />
-          </a>
-        </div>
-
-        <ul>
+    <div className={style.mainNav}>
+      <nav className={style.nav}>
+    
+        <ul className={style.nav__ulList}>
+        <Link className={style.logo}>
+        <a href="https://www.facebook.com/groups/askbuddie/">
+          <img src={logo} alt="Ask Buddie Logo" />
+        </a>
+      </Link>
           <Link
+         
             activeClass="active"
             to="blue"
             spy={true}
@@ -23,13 +25,14 @@ const Nav = () => {
             offset={-70}
             duration={500}
           >
-            <li>
+            <li className={style.flex}>
               <a href="blue" className={style.active}>
                 Blue
               </a>
             </li>
           </Link>
           <Link
+         
             activeClass="active"
             to="green"
             spy={true}
@@ -37,7 +40,7 @@ const Nav = () => {
             offset={-70}
             duration={500}
           >
-            <li>
+            <li >
               <a href="green" className={style.active1}>
                 Green
               </a>
@@ -120,14 +123,16 @@ const Nav = () => {
             smooth={true}
             offset={-70}
             duration={500}
-          />
-          <div className={style.sourcecode}>
+          >
+          <li className={style.sourcecode}>
             <a href="https://github.com/Alidhuniya/colorPicker">
               <img src={github} alt="Source Code" />
             </a>
-          </div>
+          </li>
+          </Link>
         </ul>
       </nav>
+      </div>
     </Fragment>
   );
 };
